@@ -1,8 +1,8 @@
 ---
-name : twitter
-website : http://twitter.github.com/bootstrap
-git_url : git://github.com/jekyllbootstrap/theme-twitter.git
-source_url : https://github.com/jekyllbootstrap/theme-twitter
+name : science
+website : http://spacecowboy.github.com/theme-science
+git_url : git://github.com/spacecowboy/theme-science.git
+source_url : https://github.com/spacecowboy/theme-science
 author:
-  name : "Jacob Thornton and Mark Otto"
-  website : http://twitter.github.com/bootstrap
+  name : "Jonas Kalderstam"
+  website : http://spacecowboy.github.com/theme-science
